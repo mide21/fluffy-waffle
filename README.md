@@ -2,4 +2,4 @@
 
 Hi everyone 
 
-Am a front-end-developer
+I am a front-end-developer
